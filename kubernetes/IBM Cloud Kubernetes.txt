@@ -1,0 +1,6 @@
+# IBM Cloud Kubernetes
+
+## Tutorial - OpenShift Cluster in VPC
+[openshift](https://cloud.ibm.com/docs/openshift?topic=openshift-vpc_rh_tutorial)
+
+[openshift](https://cloud.ibm.com/docs/openshift?topic=openshift-vpc_rh_tutorial])

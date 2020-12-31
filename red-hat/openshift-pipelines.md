@@ -1,6 +1,10 @@
-# Tekton
+# OpenShift Pipelines (Tekton)
+[openshift-pipelines-tutorial](https://redhat-developer-demos.github.io/openshift-pipelines-workshop/)
 
-## install
+## Pre-reqs for Local
+
+1. CRC installed
+2. Install tekton command line `tk`
 ```
 brew tap tektoncd/tools
 brew install tektoncd/tools/tektoncd-cli
